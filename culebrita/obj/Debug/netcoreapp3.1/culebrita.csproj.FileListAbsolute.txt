@@ -1,0 +1,65 @@
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\ruldin\Source\Repos\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+D:\Dowloads Chrome\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\arlet\Desktop\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+D:\Dowloads Chrome\culebrita (2)\culebrita\culebrita\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache
+C:\Users\arlet\Desktop\culebrita\bin\Debug\netcoreapp3.1\culebrita.exe
+C:\Users\arlet\Desktop\culebrita\bin\Debug\netcoreapp3.1\culebrita.deps.json
+C:\Users\arlet\Desktop\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.json
+C:\Users\arlet\Desktop\culebrita\bin\Debug\netcoreapp3.1\culebrita.runtimeconfig.dev.json
+C:\Users\arlet\Desktop\culebrita\bin\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\arlet\Desktop\culebrita\bin\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\arlet\Desktop\culebrita\obj\Debug\netcoreapp3.1\culebrita.csprojAssemblyReference.cache
+C:\Users\arlet\Desktop\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfoInputs.cache
+C:\Users\arlet\Desktop\culebrita\obj\Debug\netcoreapp3.1\culebrita.AssemblyInfo.cs
+C:\Users\arlet\Desktop\culebrita\obj\Debug\netcoreapp3.1\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\arlet\Desktop\culebrita\obj\Debug\netcoreapp3.1\culebrita.dll
+C:\Users\arlet\Desktop\culebrita\obj\Debug\netcoreapp3.1\culebrita.pdb
+C:\Users\arlet\Desktop\culebrita\obj\Debug\netcoreapp3.1\culebrita.genruntimeconfig.cache

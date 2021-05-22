@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxSuXi50owJf0lblP0eRnQPEPhszdO1c/z6w8fyRHJxgxOSIBxoOPH5amoGDkVnAqICY06Modo5uBs1sPsddCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arlet\\Desktop\\culebrita\\culebrita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arlet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
